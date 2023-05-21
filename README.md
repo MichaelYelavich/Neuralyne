@@ -6,7 +6,7 @@ Neuralyne uses sysctl and stress-ng although the latter isn't needed if you edit
 
 # Goals
 - A pretty GTK gui.
-- Ryzen clustered multithreading.
+- Ryzen clustered multithreadingusing CPPC.
 - Adaptive Page file size mutification in real time.
 
 # Installation
